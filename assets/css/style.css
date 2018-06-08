@@ -1,0 +1,30 @@
+
+
+body{
+
+    background:url("https://cdnb.artstation.com/p/assets/images/images/003/523/899/large/pavel-sivash-frame-00012.jpg?1474638232");
+    
+}
+.instructionscont{
+    background:black;
+    color: aliceblue;
+}
+h1 {
+    color: lightcyan;
+}
+.winslosses{
+    color: lightcyan;
+}
+
+.crystals{
+    display: flex;
+    justify-content: flex-start;
+    border: 3px white;
+    align-items: flex-start;
+
+}
+.crystal{
+    border:1px, solid lightcyan;
+    height: 200px;
+
+}
